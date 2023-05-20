@@ -36,7 +36,7 @@ df = get_data_from_excel()
 # Side Bar #
 ############
 editor = st.sidebar.header(
-    'Editor: [**Omar Alkousa**](linkedin.com/in/omar-alkousa)')
+    'Editor: Omar Alkousa')
 contact = st.sidebar.header('Contact: omar.ok1998@gmail.com')
 st.sidebar.header('Please Filter Here:')
 
@@ -109,5 +109,3 @@ hide_st_style = '''
                 </style>
                 '''
 st.markdown(hide_st_style, unsafe_allow_html=True)
-
-showWarningOnDirectExecution = False
