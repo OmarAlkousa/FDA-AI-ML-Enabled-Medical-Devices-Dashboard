@@ -19,12 +19,12 @@ https://github.com/OmarAlkousa/FDA-AI-ML-Enabled-Medical-Devices-Dashboard/asset
 
 ## About the Dataset:
 The data is available by the FDA following the [link](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices). There are 521 rows and 6 columns, but we used only the following five columns:
-- Date of Final Decision: (format mm/dd/yyyy)
-- Submission Number: each device has a specific number given by the FDA. This number is useful for searching the device in other FDAs' datasets.
-- Device: The name of the medical device that uses AI/ML and is enabled by the FDA.
-- Company: the name of the applicant (this column is edited, read the notes below).
-- Panel (Lead): the medical field (Radiology, Hematology, etc.)
+- **Date of Final Decision**: (format mm/dd/yyyy)
+- **Submission Number**: each device has a specific number given by the FDA. This number is useful for searching the device in other FDAs' datasets.
+- **Device**: The name of the medical device that uses AI/ML and is enabled by the FDA.
+- **Company**: the name of the applicant (this column is edited, read the notes below).
+- **Panel (Lead)**: the medical field (Radiology, Hematology, etc.)
 
 ## Notes:
 - This list is not meant to be an exhaustive or comprehensive resource of AI/ML-enabled medical devices. Rather, it is a list of AI/ML-enabled devices across medical disciplines, based on publicly available information.
-- A customized column is added "Applicant" based on the original column "Company". The latter contains the names of the companies but you may find different names for the same company, which is bad for grouping the data based on the company name.
+- A customized column is added "**Applicant**" based on the original column "**Company**". The latter contains the names of the companies but you may find different names for the same company, which is bad for grouping the data based on the company name.
