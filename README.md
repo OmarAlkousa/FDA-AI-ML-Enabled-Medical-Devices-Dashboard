@@ -1,5 +1,7 @@
 # FDA AI/ML-Enabled Medical Devices Dashboard
 
+[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://omar-alkousa-fda-ai-ml-enabled-medical-devices-dash-board.streamlit.app/)
+
 “**Artificial Intelligence (AI)** is the science and engineering of making intelligent machines, especially intelligent computer programs.” ([McCarthy, 2007]( http://jmc.stanford.edu/articles/whatisai/whatisai.pdf)).
 
 AI has the potential to transform healthcare completely by accelerating and enhancing the accuracy of diagnoses, spotting possible health issues before they become serious, creating patient-centered treatment plans for patients, and many other applications.
@@ -11,9 +13,6 @@ AI has the potential to transform healthcare completely by accelerating and enha
 -	**Radiology** has the majority of AI/ML-enabled devices (392 devices).
 -	**GE Healthcare** is the top applicant (42 AI/ML-enabled devices).
 
-Refer to the link below to interactively answer your questions.
-
-[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://omar-alkousa-fda-ai-ml-enabled-medical-devices-dash-board.streamlit.app/)
 
 https://github.com/OmarAlkousa/FDA-AI-ML-Enabled-Medical-Devices-Dashboard/assets/64659365/7cbd9d26-04fc-46eb-bea7-4434279d9c6b
 
